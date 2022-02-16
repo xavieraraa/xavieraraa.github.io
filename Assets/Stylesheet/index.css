@@ -1,0 +1,14 @@
+p {
+    font-size:17px;
+    color:blueviolet;
+}
+
+h5 {
+	color: orange;
+}
+ul {
+	list-style-type: square;
+}
+.dot {
+	list-style-type: circle;
+}
